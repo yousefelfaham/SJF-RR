@@ -5,7 +5,7 @@ SJF &amp; RR
 
 output: 
 
-![My Image](RR.png)
+![My Image](https://github.com/yousefelfaham/SJF-RR/blob/main/RoundRobin/RoundRobin.png)
 
 
 ## SJF 
