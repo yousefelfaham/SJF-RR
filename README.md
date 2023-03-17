@@ -5,7 +5,7 @@ SJF &amp; RR
 
 output: 
 
-![My Image](RoundRobin.PNG)
+![My Image](RR.PNG)
 
 
 ## SJF 
