@@ -5,10 +5,10 @@ SJF &amp; RR
 
 output: 
 
-![My Image](RR.jpg)
+![My Image](RR.png)
 
 
-##SJF 
+## SJF 
 
 ![My Image](SJF.jpg)
 
