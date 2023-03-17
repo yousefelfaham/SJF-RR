@@ -5,7 +5,7 @@ SJF &amp; RR
 
 output: 
 
-![My Image]"E:\SJF\SJF.jpg"
+![My Image](RoundRobin.PNG)
 
 
 ## SJF 
