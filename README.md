@@ -12,7 +12,7 @@ output:
 
 output: 
 
-![My Image](SJF.jpg)
+![My Image](https://github.com/yousefelfaham/SJF-RR/blob/main/SJF/SJF.jpg)
 
 
 
